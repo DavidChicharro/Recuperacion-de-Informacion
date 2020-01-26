@@ -23,6 +23,11 @@ Las librerías necesarias para esta práctica son:
 
 ## Práctica 3
 
-En esta pŕactica simplemente se implementa una clase capaz de extraer todas las películas del fichero csv y para cada una de ellas extraer todos y cada uno de los campos requeridos. Dicho fichero csv se encuentra [aquí](https://www.kaggle.com/jrobischon/wikipedia-movie-plots).
+En esta práctica simplemente se implementa una clase capaz de extraer todas las películas del fichero csv y para cada una de ellas extraer todos y cada uno de los campos requeridos. Dicho fichero csv se encuentra [aquí](https://www.kaggle.com/jrobischon/wikipedia-movie-plots).
 
 Las bibliotecas necesarias en esta práctica han de encontrarse en comprimidas en un fichero _jar_files.zip_, el cual no se ha incluido en el directorio.
+
+
+## Prácticas 4 y 5
+
+Implementación del sistema de recuperación de información con interfaz gráfica. Tras la indexación y búsqueda de las prácticas anteriores se realiza un filtrado por categorías y facetas.
